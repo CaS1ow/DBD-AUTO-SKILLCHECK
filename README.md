@@ -5,3 +5,5 @@ The author is not responsible for any consequences resulting from its use, this 
 
 # DBD Auto Skill Check
 The Dead by Daylight Auto Skill Check is a tool developed using imagesearch to automatically detect and successfully hit skill checks in the popular game Dead by Daylight. This tool is designed to demonstrate how imagesearch can improve gameplay performance and enhance the player's skill in the game.
+
+# DEMO
