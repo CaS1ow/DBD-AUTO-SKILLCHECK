@@ -4,7 +4,7 @@
 The author is not responsible for any consequences resulting from its use, this includes bans or any other unspecified violations. Use at your own risk. Join the discord server for more info.
 
 - # Discord
-- [Click Here to Join Discord](https://discord.gg/TqEFdvKUBV)
+- [Click Here to Join Discord](https://discord.gg/TrZcVfxWRk)
 
 # DBD Auto Skill Check
 The Dead by Daylight Auto Skill Check is a tool developed using imagesearch to automatically detect and successfully hit skill checks in the popular game Dead by Daylight. This tool is designed to demonstrate how imagesearch can improve gameplay performance and enhance the player's skill in the game.
