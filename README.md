@@ -24,4 +24,3 @@ The Dead by Daylight Auto Skill Check is a tool developed using imagesearch to a
 - Auto resolution
 - Edit correction
 - Crosshair offset
-- UD over 6years
