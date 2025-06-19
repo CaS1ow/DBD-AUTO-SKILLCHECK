@@ -11,6 +11,7 @@ The Dead by Daylight Auto Skill Check is a tool developed using imagesearch to a
 
 # DEMO
 ![DEMO](https://github.com/CaS1ow/DBD-AUTO-SKILLCHECK/blob/main/demo.gif)
+![DEMO](https://github.com/CaS1ow/DBD-AUTO-SKILLCHECK/blob/main/demo2.gif)
 
 # Features
 - Real-time detection of skill checks (120fps)
